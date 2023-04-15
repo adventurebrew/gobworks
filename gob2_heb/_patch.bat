@@ -1,0 +1,2 @@
+ren INTRO.STK INTRO.STK.bak
+PATCHES\xdelta3.exe -d -s INTRO.STK.bak PATCHES\INTRO.patch INTRO.STK
