@@ -3,4 +3,4 @@ python -m boozook.runner orig ^
     --font ^
     --graphics -r || echo ERROR && exit /b
 
-..\utils\md5deep64 -bz patch\INTRO.STK > hash.txt
+..\utils\md5deep64 -bz INTRO.STK > hash.txt
